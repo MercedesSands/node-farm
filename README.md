@@ -2,7 +2,7 @@
 
 This project is a backend application using node js.
 The application is a farm and it is fully functional
-The frontend wasn't designed by my goal was to get practice working on the backend of the application.
+The frontend wasn't designed by me, my goal was to get practice working on the backend of the application.
 
 How to use:
 
